@@ -1,3 +1,5 @@
+![logo](https://github.com/garvita2003/garvita2003/blob/main/GARVITA%20KESARWANI.png)
+
 <h1 align="center">Hi 👋, I'm Garvita Kesarwani</h1>
 <h3 align="center">Currently in 4th Year in Btech in Computer Science and Engineering</h3>
 
