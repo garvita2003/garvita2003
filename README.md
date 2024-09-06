@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garvita Kesarwani</h1>
 <h3 align="center">Currently in 4th Year in Btech in Computer Science and Engineering</h3>
 
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_OIUet1dRnEI3NPUYZXhOqmhh7d4_jM2J5Q&s"/>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garvita2003&label=Profile%20views&color=0e75b6&style=flat" alt="garvita2003" /> </p>
 
