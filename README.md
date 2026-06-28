@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&width=600&lines=Hi+%F0%9F%91%8B+I'm+Garvita+Kesarwani!;Software+Developer;DevSecOps+Engineer;AI%2FML+Enthusiast;Problem+Solver;Always+learning%2C+building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=500&width=600&lines=Hi+%F0%9F%91%8B+I'm+Garvita+Kesarwani!;Software+Developer+%7C+DevSecOps+Engineer;AI%2FML+Enthusiast+%7C+Problem+Solver;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="coding" width="230" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
+<img align="right" alt="coding" width="220" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 ```yaml
 Name        : Garvita Kesarwani
